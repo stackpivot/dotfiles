@@ -1,0 +1,5 @@
+vim.symlink/plugged/*
+*.log
+tags
+cscope.files
+*.swp
