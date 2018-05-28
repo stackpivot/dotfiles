@@ -8,7 +8,7 @@ filetype plugin on
 filetype on
 let mapleader = "\<Space>"
 
-source $HOME/.vim/vimrc/filetypes.vim
+" source $HOME/.vim/vimrc/filetypes.vim
 source $HOME/.vim/vimrc/plugins.vim
 source $HOME/.vim/vimrc/plugin_configs.vim
 source $HOME/.vim/vimrc/settings.vim

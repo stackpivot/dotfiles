@@ -1,3 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/vulndev/targets/libyaml/yaml-0.1.7'
+let g:netrw_dirhist_2='/home/mov/projects/company_website'
+let g:netrw_dirhist_3='/home/mov/projects/password_db/docker-elk/kibana'
+let g:netrw_dirhist_4='/home/mov/projects/company/website_jekyll'
+let g:netrw_dirhist_5='/home/mov/dotfile_new/vim.symlink'
+let g:netrw_dirhist_6='/home/mov/projects/company/report_template'

@@ -1,0 +1,32 @@
+[options]
+#font = DejaVu Sans 11
+font = Source Code Pro 9
+browser = firefox
+clickable_url = true
+dynamic_title = true
+geometry = 1000x600
+scrollback_lines = 999999
+scroll_on_keystroke = true
+scroll_on_output = false
+urgent_on_bell = true
+
+[colors]
+# background = rgba(38, 50, 56, 0.95)
+background = #eeeeee
+foreground = #4d4d4d
+color0  = #ededed
+color8  = #969694
+color1  = #D7005F
+color9  = #D7005F
+color2  = #718C00
+color10 = #718C00
+color3  = #D75F00
+color11 = #D75F00
+color4  = #4271AE
+color12 = #4271AE
+color5  = #8959A8
+color13 = #8959A8
+color6  = #3E999F
+color14 = #3E999F
+color7  = #4D4D4C
+color15 = #F5F5F5

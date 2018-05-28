@@ -53,6 +53,7 @@ let g:deoplete#enable_at_startup = 1
 Plug 'brookhong/cscope.vim'
 Plug 'ronakg/quickr-cscope.vim'
 Plug 'hari-rangarajan/CCTree'
+Plug 'valloric/youcompleteme'
 
 
 
@@ -99,7 +100,7 @@ Plug 'NLKNguyen/papercolor-theme'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'mbbill/undotree'
 Plug 'kien/rainbow_parentheses.vim'
-
+Plug 'dhruvasagar/vim-table-mode'
 " Markdown
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
